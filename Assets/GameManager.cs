@@ -15,7 +15,7 @@ public class GameManager : MonoBehaviour
     void Update()
     {
 
-        if(Input.GetKeyUp(KeyCode.Escape)) // Pauso al apretar ESC
+        if(Input.GetKeyUp(KeyCode.Escape)) // Pauso al apretar ESC 
         {
             Pause();
         }
