@@ -41,4 +41,6 @@ public class PlayerStats : MonoBehaviour
         currentCoins += amount;
         Debug.Log("Monedas actuales: " + currentCoins);
     }
+
+    public float GetHealth() => currentHealth;
 }

@@ -4,19 +4,30 @@ using UnityEngine.UI;
 public class HUD_Manager : MonoBehaviour
 {
     public Slider healthBar;
-    //private PlayerHealth playerScript;
+    private PlayerStats playerStats;
     public GameObject pauseMenuPanel;
+    float maxHealth = 0, currentHealth = 0;
 
-    void Start()
+    void Awake()
     {
         // Busca al jugador en la escena al iniciar
-        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        GameObject player = GameObject.Find("Player");
+
         if (player != null)
         {
-            // playerScript = player.GetComponent();
+            playerStats = player.GetComponent<PlayerStats>();
+            Debug.Log("Datos del jugador conectados al HUD");
 
+            maxHealth = playerStats.maxHealth;
         }
     }
+
+    private void Update()
+    {
+        if (healthBar != null && playerStats != null)
+            HealthBarController();
+    }
+
 
     // ... en HUDManager ...
 
@@ -26,6 +37,19 @@ public class HUD_Manager : MonoBehaviour
         pauseMenuPanel.SetActive(show);
     }
 
+    private void HealthBarController()
+    {
+        currentHealth = playerStats.GetHealth() / maxHealth; //Calculo el % de vida del jugador 0 - 1
 
+        if (currentHealth != healthBar.value)
+        {
+            healthBar.value = currentHealth;
+        }
 
+        if(currentHealth <= 0)
+        {
+            Debug.Log("GAME OVER");
+        }
+        
+    }
 }
