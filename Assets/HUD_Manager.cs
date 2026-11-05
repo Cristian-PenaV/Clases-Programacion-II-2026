@@ -18,7 +18,7 @@ public class HUD_Manager : MonoBehaviour
             playerStats = player.GetComponent<PlayerStats>();
             Debug.Log("Datos del jugador conectados al HUD");
 
-            maxHealth = playerStats.maxHealth;
+            maxHealth = playerStats.GetMaxHealth();
         }
     }
 

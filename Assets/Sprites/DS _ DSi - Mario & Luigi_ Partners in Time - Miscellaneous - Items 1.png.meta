@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 34866d0648bbc6b4dae6e2f636c9a63b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4058709756651382703
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_0
+  - first:
+      213: -528755002753799436
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_1
+  - first:
+      213: -142813399997825464
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_2
+  - first:
+      213: 6362650951639035436
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_3
+  - first:
+      213: -2895301313099340421
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_4
+  - first:
+      213: -1341031479119114082
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_5
+  - first:
+      213: 4761146941888711348
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_6
+  - first:
+      213: -7681443114359842218
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_7
+  - first:
+      213: 5254243842284861375
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_8
+  - first:
+      213: 3089663627293361381
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_9
+  - first:
+      213: -7181506197436999690
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_10
+  - first:
+      213: -5878307366901625904
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_11
+  - first:
+      213: -1608061396119049992
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_12
+  - first:
+      213: 6984714579006249622
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_13
+  - first:
+      213: -3441569269115079411
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_14
+  - first:
+      213: -879138039922598148
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_15
+  - first:
+      213: 343435802319634803
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 83
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa72e9b050f635830800000000000000
+      internalID: 4058709756651382703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 83
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa26af502c79a8f0800000000000000
+      internalID: -528755002753799436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 83
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eb6f728ff940ef0800000000000000
+      internalID: -142813399997825464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 83
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eee3a645dac4850800000000000000
+      internalID: 6362650951639035436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 83
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75edf2bbc2d1d7d0800000000000000
+      internalID: -2895301313099340421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 83
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e901d7e89f2b36de0800000000000000
+      internalID: -1341031479119114082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 83
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bac6b20bedf21240800000000000000
+      internalID: 4761146941888711348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 46
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a163e7f28066590800000000000000
+      internalID: -7681443114359842218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 46
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb73ca6bfe2dae840800000000000000
+      internalID: 5254243842284861375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 46
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4044403b0b0ea20800000000000000
+      internalID: 3089663627293361381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 46
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f75085a92a265c90800000000000000
+      internalID: -7181506197436999690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 46
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db444b289e0c6ea0800000000000000
+      internalID: -5878307366901625904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 46
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f82e4b1ea40fa9e0800000000000000
+      internalID: -1608061396119049992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 46
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ad82b27e0bee060800000000000000
+      internalID: 6984714579006249622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 46
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05be74ebf61d30d0800000000000000
+      internalID: -3441569269115079411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 46
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe51ed4c9cacc3f0800000000000000
+      internalID: -879138039922598148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 46
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371c968ea0124c400800000000000000
+      internalID: 343435802319634803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_0: 4058709756651382703
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_1: -528755002753799436
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_10: -7181506197436999690
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_11: -5878307366901625904
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_12: -1608061396119049992
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_13: 6984714579006249622
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_14: -3441569269115079411
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_15: -879138039922598148
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_16: 343435802319634803
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_2: -142813399997825464
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_3: 6362650951639035436
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_4: -2895301313099340421
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_5: -1341031479119114082
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_6: 4761146941888711348
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_7: -7681443114359842218
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_8: 5254243842284861375
+      DS _ DSi - Mario & Luigi_ Partners in Time - Miscellaneous - Items 1_9: 3089663627293361381
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

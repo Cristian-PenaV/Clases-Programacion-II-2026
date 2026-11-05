@@ -68,6 +68,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BulletBill
       objectReference: {fileID: 0}
+    - target: {fileID: 8778167813872495701, guid: b5f3ef253d4162f4da7ca7976405052a, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

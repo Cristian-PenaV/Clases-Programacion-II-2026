@@ -3,13 +3,16 @@ using UnityEngine.SceneManagement;
 
 public class PlayerStats : MonoBehaviour
 {
-    public int maxHealth = 3;
-    private int currentHealth;
+    [SerializeField] private int maxHealth = 10;
+    [SerializeField] private int currentHealth = 7;
     private int currentCoins = 0;
 
     void Start()
     {
-        currentHealth = maxHealth;
+        if (currentHealth > maxHealth)
+        {
+            currentHealth = maxHealth;
+        }
     }
 
     public void TakeDamage(int damage)
@@ -43,4 +46,16 @@ public class PlayerStats : MonoBehaviour
     }
 
     public float GetHealth() => currentHealth;
+
+    public int GetMaxHealth() => maxHealth;
+
+    public void SetHealth(int amount)
+    {
+        currentHealth += amount;
+        if (currentHealth > maxHealth)
+        {
+            currentHealth = maxHealth;
+        }
+    }
+
 }

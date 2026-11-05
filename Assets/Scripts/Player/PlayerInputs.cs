@@ -38,7 +38,7 @@ public class PlayerInputs : MonoBehaviour
         // Disparo
         if (Input.GetMouseButtonDown(0))
         {
-            //attack.Shoot();
+            attack.Shoot();
             animScript.TriggerShoot();
         }
 
