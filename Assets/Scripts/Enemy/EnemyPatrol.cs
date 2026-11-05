@@ -7,6 +7,7 @@ public class EnemyPatrol : MonoBehaviour
 
     private Vector2 initialPos;
     private int direccion = -1; // -1 = Izquierda, 1 = Derecha
+    [SerializeField] private SpriteRenderer spriteRenderer; // Referencia al SpriteRenderer del enemigo
 
     private void Start()
     {
@@ -22,10 +23,12 @@ public class EnemyPatrol : MonoBehaviour
         if (direccion == -1 && transform.position.x <= initialPos.x - distance)
         {
             direccion = 1;
+            spriteRenderer.flipX = false; // Voltear el sprite hacia la derecha
         }
         else if (direccion == 1 && transform.position.x >= initialPos.x + distance)
         {
             direccion = -1;
+            spriteRenderer.flipX = true; // Voltear el sprite hacia la izquierda
         }
     }
 
@@ -34,6 +37,7 @@ public class EnemyPatrol : MonoBehaviour
         if (!collision.gameObject.CompareTag("Player")) //Si choco con algo que no sea el jugador, cambio de dirección.
         {
             direccion *= -1; // Cambio de dirección
+            spriteRenderer.flipX = !spriteRenderer.flipX; // Voltear el sprite al cambiar de dirección
         }
     }
 }
